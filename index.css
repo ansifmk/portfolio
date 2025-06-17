@@ -40,7 +40,7 @@ body{
     color: white;
 }
 .about{
-    font-size: 150px;
+    font-size: 90px;
       font-weight: bold;
     color: #00bfff;
     position: relative;
@@ -49,13 +49,13 @@ body{
 }
  .me {
       position: relative;
-      font-size: 150px;
+      font-size: 90px;
       font-weight: bold;
       color:transparent;
       font-family: Arial, sans-serif;
       position: relative;
-      top: -80px;
-      left:290px;
+      top: -50px;
+      left:240px;
       z-index: 5;
     }
 
@@ -86,8 +86,9 @@ body{
     color: #00bfff;
     position: relative;
     top: 80px;
+    left: -250px;
     font-weight: bold;
-    font-size: 150px;
+    font-size: 90px;
     font-style: italic;
 }
 #img-1{
@@ -139,8 +140,9 @@ button{
       color: #00bfff;
     position: relative;
     top: 200px;
+    left: -350px;
     font-weight: bold;
-    font-size: 150px;
+    font-size: 90px;
     font-style: italic;
 }
 
