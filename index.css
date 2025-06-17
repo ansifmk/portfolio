@@ -86,7 +86,7 @@ body{
     color: #00bfff;
     position: relative;
     top: 80px;
-    left: -250px;
+    left: -50px;
     font-weight: bold;
     font-size: 90px;
     font-style: italic;
@@ -140,7 +140,7 @@ button{
       color: #00bfff;
     position: relative;
     top: 200px;
-    left: -350px;
+    left: -50px;
     font-weight: bold;
     font-size: 90px;
     font-style: italic;
@@ -169,4 +169,15 @@ padding: 50px;
     border-radius: 20px;
     color: #ffffff;
     background-color: #080202;
+}
+#prjs{
+    position: relative;
+    left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
 }
