@@ -85,7 +85,7 @@ body{
 .proj{
     color: #00bfff;
     position: relative;
-    top: 200px;
+    top: 80px;
     font-weight: bold;
     font-size: 150px;
     font-style: italic;
@@ -127,11 +127,13 @@ button{
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
-.border{
+.border-1{
   
     padding: 10px;
     
     margin: 220px;
+    position: relative;
+    top: 800px;
 }
 .skills{
       color: #00bfff;
@@ -157,12 +159,12 @@ padding: 50px;
 #form-3{
     position: relative;
     top: 500px;
-    left:200px;
-    border: 1px solid rgba(9, 9, 9, 0.795);
+    left:20px;
+    border: 1px solid rgba(6, 6, 6, 0.978);
     width: 900px;
     height: 450px;
     padding: 20px;
     border-radius: 20px;
     color: #ffffff;
-    background-color: #1b1a1a;
+    background-color: #080202;
 }
